@@ -47,7 +47,7 @@ M.base_30 = {
   statusline_bg = "#242424",
   lightbg = "#303030",
   pmenu_bg = c.keyword,
-  folder_bg = "#7A8A92",
+  folder_bg = "#3DAEE9",
 }
 
 M.base_16 = {
@@ -70,6 +70,14 @@ M.base_16 = {
 }
 
 M.polish_hl = {
+  devicons = {
+    DevIconrb = { fg = "#E0524B" },
+  },
+  nvimtree = {
+    NvimTreeFolderName = { fg = c.fg },
+    NvimTreeOpenedFolderName = { fg = c.fg },
+    NvimTreeEmptyFolderName = { fg = c.fg },
+  },
   defaults = {
     Comment = { fg = c.comment },
   },

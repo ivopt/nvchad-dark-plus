@@ -33,6 +33,8 @@ M.base46 = {
 | Numbers | `#B5CEA8` |
 | Literals and builtins (`true`, `nil`, `self`, `:symbols`) | `#569CD6` |
 | Background | `#1E1E1E` |
+| File tree folder icons | `#3DAEE9` |
+| Ruby file icons | `#E0524B` |
 
 ## License
 
