@@ -33,3 +33,7 @@ M.base46 = {
 | Numbers | `#B5CEA8` |
 | Literals and builtins (`true`, `nil`, `self`, `:symbols`) | `#569CD6` |
 | Background | `#1E1E1E` |
+
+## License
+
+[GPL-3.0](LICENSE)
